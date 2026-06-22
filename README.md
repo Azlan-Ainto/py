@@ -1,2 +1,1 @@
-# py
-*PyCharm
+# py 
